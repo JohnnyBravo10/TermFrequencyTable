@@ -31,5 +31,9 @@ public class Term_frequency_table {
         }
     }
 
+    public void saluta(){
+        System.out.println("Ciaoooooooooooooooooooooooo");
+    }
+
 
 }
